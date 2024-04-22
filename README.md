@@ -115,7 +115,9 @@ print(y_prednew)
 ![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/ca8a0fc4-6c6d-464c-b70b-272131cd4cae)
 ![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/63f8eaf2-d715-4dd1-9669-b5f5a210134b)
 ![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/cdaace1a-c388-4a00-8ed1-73d9710e29bd)
+
 ![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/f326e34b-48fa-4bec-abd4-d447e346dbe8)
+
 ![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/4c16def5-f46d-479d-83b5-1570cdb09f12)
 
 
