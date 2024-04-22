@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# EX-05 Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -106,15 +106,19 @@ print(y_prednew)
 ```
 
 ## Output:
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/d9272053-300f-46a6-a72f-0818369ad9eb)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/597f6d16-3cf8-401c-8023-d2a924240a3f)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/8344bfa0-5c1a-471b-a885-0d7d95a450f9)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/e10333cb-c34b-4cfd-915b-70823a5765d4)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/22e5c742-9ba9-4989-abdd-3b129452f432)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/6b86a604-ab6b-4ff7-bda0-55841f95aedd)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/0f295f34-3d17-4fab-bd3a-37f4504a1fa7)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/a9321798-1be6-4cd1-bd16-250171e0d00b)
-![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/e08172ec-2640-4eb5-8129-4d9405121410)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/8bf85e52-39e1-4c6b-b04b-666eaa74d95c)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/86e80108-cdec-46d1-98e7-8f1e1ab65660)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/214c0417-882a-4d53-9bb8-68b5cee06b89)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/256b861a-e01f-440c-a408-cd3c57f3296d)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/452fd814-9eb6-4b74-b68f-b2b2ef97699f)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/ce6d744d-8a8b-4cdd-a910-a0cc3d53c68c)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/fe9fd3c2-def9-479f-aaf2-c583f3a6a79f)
+![image](https://github.com/velupradeep/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/150329341/61823f33-fe75-486f-924d-75e9fee0f0e2)
+
+
+
+
+
 
 
 
