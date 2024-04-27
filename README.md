@@ -22,7 +22,6 @@ Developed by: PRADEEP V
 RegisterNumber: 212223240119
 */
 ```
-
 ```
 import pandas as pd
 import numpy as np
